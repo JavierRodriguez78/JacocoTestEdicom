@@ -12,7 +12,7 @@
 	<url>http://maven.apache.org</url>
 	
 	<properties>
-		<jacoco.version>0.7.9</jacoco.version>
+		<jacoco.version>0.8.0</jacoco.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
@@ -29,7 +29,7 @@
 			<plugin>
 				<groupId> org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.5.4</version>
+				<version>3.6.1</version>
 				<configuration>
 					<skipMain>true</skipMain>
 					<skip>true</skip>
